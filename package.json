@@ -1,0 +1,9 @@
+{
+  "name": "racehorse.io",
+  "version": "0.0.1",
+  "description": "gambling is fun",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.1.1"
+  }
+}
